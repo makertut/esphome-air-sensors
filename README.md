@@ -25,7 +25,7 @@ esphome:
     
   libraries:
     - Wire
-    - "https://github.com/makertut/DFRobot_MICS"
+    - "https://github.com/makertut/esphome-air-sensors/tree/main/DFRobot_MICS"
     - "https://github.com/dfrobot/DFRobot_AirQualitySensor"
   
 # Enable logging

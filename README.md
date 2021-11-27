@@ -11,6 +11,7 @@ https://www.dfrobot.com/product-2439.html
 <img src="https://dfimg.dfrobot.com/store/data/SEN0460/SEN0460.jpg" width=50% height=50%>
 
 espHome YAML 
+```
 esphome:
   name: esp32-test
   platform: ESP32
@@ -90,3 +91,4 @@ sensor:
   - name: "PM 10"  
     unit_of_measurement: "mg/m3"
     accuracy_decimals: 1  
+```

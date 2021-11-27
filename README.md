@@ -1,3 +1,5 @@
+# home assistant
+<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width=50% height=50%> 
 # esphome
 Hardware
 1. FireBeetle ESP32-E IoT or other esp32 boards<br/>

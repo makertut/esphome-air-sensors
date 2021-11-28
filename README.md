@@ -1,7 +1,8 @@
-# Home Assistant </br>
+# Home Assistant 
+
 <img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width=30% height=30%> 
-# esphome
-Hardware
+# esphome </br>
+Hardware </br>
 1. FireBeetle ESP32-E IoT or other esp32 boards<br/>
 https://www.dfrobot.com/product-2231.html
 <img src="https://dfimg.dfrobot.com/store/data/DFR0654-F/DFR0654-F.jpg" width=50% height=50%> 

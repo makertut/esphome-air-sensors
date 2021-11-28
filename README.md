@@ -1,4 +1,4 @@
-# Home Assistant
+# Home Assistant </br>
 <img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width=30% height=30%> 
 # esphome
 Hardware
